@@ -1,0 +1,85 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #5f7da369;
+}
+
+
+.JDS_header {
+	max-width: 920px;
+	margin: 0 auto;
+	background-color: #1f2c41;
+	color: #ffffff;
+	text-align: center;
+	padding: 10px;
+}
+
+.JDS_main {
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #487eb186;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.JDS_foto {
+	border: 50%;
+	width: 150px;
+	height: 150px;
+	margin: 0 auto;
+	display: block;
+}
+
+
+.JDS_personal {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.JDS_nombre {
+	font-size: 24px;
+}
+
+.JDS_contacto {
+	font-size: 16px;
+	color: #555;
+}
+
+
+.JDS_experiencia {
+	margin-top: 20px;
+}
+
+.JDS_job {
+	font-weight: bold;
+}
+
+.JDS_dato {
+	color: #555;
+}
+
+.JDS_educacion {
+	margin-top: 20px;
+}
+
+.JDS_habilidades {
+	margin-top: 20px;
+}
+
+.JDS_habilidad {
+	background-color: #f0f0f0;
+	padding: 5px 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	display: inline-block;
+	border-radius: 5px;
+}
+
+.JDS_contact_info {
+	margin-top: 20px;
+}
+
+.JDS_Referencia {
+	margin-top: 20px;
+}
